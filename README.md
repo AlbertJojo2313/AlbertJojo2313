@@ -8,7 +8,7 @@ My long-term goal is to work in **fintech**, building scalable data systems and 
 
 ## 🔭 What I'm Working On
 - Building and fine-tuning machine learning models  
-- Developing end-to-end data pipelines & ETL workflows  
+- Developing end-to-end data pipelines
 - Expanding my engineering skills towards fintech systems  
 
 ---

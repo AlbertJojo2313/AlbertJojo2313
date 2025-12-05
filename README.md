@@ -47,18 +47,6 @@ Google Cloud Platform (GCP) • Learning AWS fundamentals
 (Need to add this)
 
 *(I’ll keep adding more as I learn and build!)*
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlbertJojo2313&show_icons=true&theme=tokyonight)
-
-
-
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlbertJojo2313&layout=compact&theme=tokyonight)
-
-
 ---
 
 ## 🎉 Outside of Tech

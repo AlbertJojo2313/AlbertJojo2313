@@ -44,7 +44,16 @@ Google Cloud Platform (GCP) • Learning AWS fundamentals
 ---
 
 ## 🧩 Featured Projects
-(Need to add this)
+
+### 📊 Stock Market Prediction
+**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Stats  
+**Description:** Developed a time-series model to predict stock returns using historical market data, & develop an allocation function using the predicted returns in the range of [0-2].  
+**Key Features:**  
+- Engineered features including lag, EMA, and rolling statistics  
+- Trained ML model to forecast excess returns based on verifying various statistical assumptions, and visualizations
+- Returned Allocation factor based on excess market returns
+
+**Repo / Demo:** [GitHub](https://github.com/AlbertJojo2313/S-P500_Trading_Strat)
 
 *(I’ll keep adding more as I learn and build!)*
 ---

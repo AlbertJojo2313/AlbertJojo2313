@@ -45,7 +45,7 @@ Google Cloud Platform (GCP) • Learning AWS fundamentals
 
 ## 🧩 Featured Projects
 
-### 📊 Stock Market Prediction
+### 📊 S&P-500 Trading Strategy
 **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Stats  
 **Description:** Developed a time-series model to predict stock returns using historical market data, & develop an allocation function using the predicted returns in the range of [0-2].  
 **Key Features:**  
